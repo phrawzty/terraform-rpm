@@ -32,7 +32,7 @@ rm -rf %{buildroot}
 %doc
 
 %changelog
-* Mon may 11 2015 dan phrawzty <phrawzty@mozilla.com>
+* Mon May 11 2015 dan phrawzty <phrawzty@mozilla.com>
 - bump to v0.5.0
 * Wed May 06 2015 dan phrawzty <phrawzty@mozilla.com>
 - init v0.4.2
