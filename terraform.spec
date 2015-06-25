@@ -1,5 +1,5 @@
 Name:           terraform
-Version:        0.5.0
+Version:        0.5.3
 Release:        1%{?dist}
 Summary:        Terraform provides a common configuration to launch cloud-based infrastructure.
 Group:          Applications/System
